@@ -1,6 +1,6 @@
 **Database Name: tiket_pesawat**
 
-**Developed by Sujoy Dcunha, Christina Pereira, Mark Coutinho**
+**Developed by Elang Dennys Dhamara**
 
 **Recommended PHP Version 5.6, 7.4**
 
